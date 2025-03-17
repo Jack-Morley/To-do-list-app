@@ -28,7 +28,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS=['8000-nielmc-django-project-0kylrta3cs.us2.codeanyapp.com','127.0.0.1','my-to-do-list-app-dd608cf47888.herokuapp.com',]
 CSRF_TRUSTED_ORIGINS = [ 'https://*.herokuapp.com']

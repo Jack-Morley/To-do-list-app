@@ -1,1 +1,1 @@
-web: gunicorn my-to-do-list-app.wsgi
+web: gunicorn my_project.wsgi

@@ -4,6 +4,7 @@
 - [Wireframes](#wireframes)
 - [User stories](#user-stories)
 - [How was AI used?](#how-was-ai-used)
+- [Code sources](#code-sources)
 - [Database models](#database-models)
 ## Purpose
 This web app is desighned for students to keep track of work by allowing them to list different tasks they need to complete.
@@ -24,4 +25,6 @@ This web app is desighned for students to keep track of work by allowing them to
     The user could recive some pionts for completing homework tasks early to promote the completion of work faster and to increace their motivation.
 ## How was AI used?
 In my project, AI was used to debug and create code as well as decoding error messages. 
+## Code sources
+Some code was created through the help of educational websites such as W3 schools and stack overflow
 ## Database models
